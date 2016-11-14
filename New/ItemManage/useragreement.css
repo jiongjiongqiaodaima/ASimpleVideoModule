@@ -1,0 +1,87 @@
+html{
+	font-size: 40px;
+	background-color: #fff;
+}
+.topBar{
+	width: 100%;
+	height: 2.2rem;
+	padding:0 0.6rem;
+	position: relative;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	background-color: #fff;
+	border-bottom: 1px solid #e1e1e1;
+}
+.topBar a{
+	display: inline-block;
+	width: 0.55rem;
+	height: 1rem;
+	background:url(blackbac.png) 0 0 no-repeat;
+	background-size: 100%;
+	-moz-background-size: 100%;
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	-ms-background-size: 100%;
+	position: absolute;
+	top:50%;
+	left: 0.6rem;
+	margin-top: -0.5rem;
+}
+.topBar p{
+	line-height:2.2rem;
+	color: #333;
+	font-size:0.95rem;
+	text-align: center;
+}
+/* 文字样式 */
+.main{
+	width: 100%;
+	padding:0.6rem;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	background-color: #fff;
+}
+.text{
+	width: 100%;
+}
+.text h3{
+	font-weight: normal;
+	font-size: 0.75rem;
+	line-height: 1.05rem;
+	color: #333;
+	padding-top: 0.2rem;
+	text-align:justify;
+}
+.text p{
+	font-size: 0.65rem;
+	line-height: 0.95rem;
+	color: #999;
+	text-align:justify;
+	text-indent: 2em;
+}
+.tips{
+	padding-top: 0.3rem;
+	background-color: #fff;
+}
+.tips h3{
+	background-color: #fff;
+	font-weight: normal;
+	font-size: 0.75rem;
+	line-height: 1.05rem;
+	color: #333;
+	padding-top: 0.2rem;
+	text-align:justify;
+	text-indent: 2em;
+	padding: 0 0.6rem;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+}
